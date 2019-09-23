@@ -1,0 +1,144 @@
+[class^="icon-"], [class*=" icon-"] {
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-image: url(../img/icon.svg);
+}
+.icon-cart {
+  width: 32px;
+  height: 32px;
+  background-position: 0 0;
+}
+.icon-bed {
+  width: 32px;
+  height: 32px;
+  background-position: -48px 0;
+}
+.well-light .icon-bed{
+    margin-left: 17px !important;
+    margin-top: 10px !important;
+}
+.well-light .icon-kacamata{
+    margin-left: 17px !important;
+    margin-top: 15px !important;
+}
+.well-light .icon-plane{
+    margin-left: 17px !important;
+    margin-top: 16px !important;
+}
+
+.icon-kacamata {
+  width: 32px;
+  height: 32px;
+  background-position: -96px 0;
+}
+.icon-plane {
+  width: 32px;
+  height: 32px;
+  background-position: -144px 0;
+}
+.icon-stetoscope {
+  width: 32px;
+  height: 32px;
+  background-position: -192px 0;
+}
+.icon-whellchair {
+  width: 32px;
+  height: 32px;
+  background-position: -240px 0;
+}
+.icon-graph {
+  width: 32px;
+  height: 32px;
+  background-position: -288px 0;
+}
+.icon-finances {
+  width: 32px;
+  height: 32px;
+  background-position: -336px 0;
+}
+.icon-id-card {
+  width: 32px;
+  height: 32px;
+  background-position: -384px 0;
+}
+.icon-agreement {
+  width: 32px;
+  height: 32px;
+  background-position: -432px 0;
+}
+.icon-genders {
+  width: 32px;
+  height: 32px;
+  background-position: -480px 0;
+}
+.icon-briefcase {
+  width: 32px;
+  height: 32px;
+  background-position: -528px 0;
+}
+.icon-wedding-rings {
+  width: 32px;
+  height: 32px;
+  background-position: -576px 0;
+}
+.icon-sunbed {
+  width: 32px;
+  height: 32px;
+  background-position: -624px 0;
+}
+.icon-baby {
+  width: 32px;
+  height: 32px;
+  background-position: -672px 0;
+}
+.icon-ambulance {
+  width: 32px;
+  height: 32px;
+  background-position: -720px 0;
+}
+.icon-hospital {
+  width: 32px;
+  height: 32px;
+  background-position: 0 -48px;
+}
+.icon-nurse {
+  width: 32px;
+  height: 32px;
+  background-position: -48px -48px;
+}
+.icon-get-money {
+  width: 32px;
+  height: 32px;
+  background-position: -96px -48px;
+}
+.icon-stethoscope {
+  width: 32px;
+  height: 32px;
+  background-position: -144px -48px;
+}
+.icon-bed2 {
+  width: 32px;
+  height: 32px;
+  background-position: -192px -48px;
+}
+.icon-suitcase {
+  width: 32px;
+  height: 32px;
+  background-position: -240px -48px;
+}
+.icon-notes {
+  width: 32px;
+  height: 32px;
+  background-position: -288px -48px;
+}
+.icon-money {
+  width: 32px;
+  height: 32px;
+  background-position: -336px -48px;
+}
+.icon-boss {
+  width: 32px;
+  height: 32px;
+  background-position: -384px -48px;
+}
+

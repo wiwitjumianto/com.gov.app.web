@@ -1,0 +1,83 @@
+/*
+ * It is advised not to edit the smartadmin_production.css
+ * as this will override any changes you make in the 
+ * later versions of this theme. 
+ * 
+ * We advise that you use use this CSS to override 
+ * SmartAdmin styles. 
+ * 
+ * Rename the stylesheet to whatever your liking so it will stay
+ * unique to you with each update of SmartAdmin.
+ */
+
+/*
+ * INDEX
+ * 
+ * - HTML
+ * - BODY
+ * - CUSTOM STYLES
+ */
+
+ #logo-group span img{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+ }
+ /*.hidden-menu #left-panel{
+     left:-290px;
+ }*/
+ .logo-hcs{
+     margin-top:25px;
+     max-height: 350px;
+     max-width: 350px;
+ }
+ .logo-24{
+     margin-top: 10px;
+     width:60px;
+ }
+ #footer{
+     position: absolute;
+     bottom: 0;
+     left: 50%;
+     transform: translate(-50%,-50%);
+     background: rgb(255,255,255);
+ }
+ .img-head{
+     float: left;
+     margin: 2px 10px;
+     margin-left: 0;
+ }
+.img-head img{
+    max-width: 40px;
+}
+.label{
+    color: #000;
+}
+#ribbon{
+    background: #006699;
+}
+.dropdown-menu li a i span{
+    font-family: "Open Sans";
+    font-size:1.1em;
+    margin: 0 10px;
+}
+#ribbon p{
+    font-family: "Open Sans";
+    color: #fff;
+    margin: 10px 30px;
+}
+.btn-head{
+    padding:8px;
+    margin: 7px;
+    font-family: "Open Sans";    
+}
+.btn{
+    font-family: "Open Sans";  
+    font-size: 1.1em; 
+    margin: 5px; 
+}
+.label{
+  color: #fff;
+  font-family: "Open Sans";  
+  font-weight: 400;
+}

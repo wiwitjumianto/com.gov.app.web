@@ -1,0 +1,121 @@
+.popover-content {
+    padding: 0px;
+    font-size: 12px;
+    color: #666;
+    min-width: 120px;
+}
+.popover-title {
+    margin: 0;
+    padding: 8px 14px;
+    font-size: 14px;
+    background-color: #fcfcfc;
+    border-bottom: 1px solid #efefef;
+    border-radius: 3px 3px 0 0;
+}
+.tabvertical {
+    position: relative;
+    height: 280px;
+    min-width: 440px;
+}
+.tabvertical .lfttab {
+    background-color: #f9fafc;
+    border-right: 1px solid #eee;
+    overflow-y: auto;
+    padding: 0;
+    position: absolute;
+    width: 180px;
+    bottom: 0;
+    height: 280px;
+    top: 0;
+    left: 0;
+    overflow-x: hidden;
+	overflow-y: auto;
+}
+.tabvertical .rhtlstsrl {
+    position: absolute;
+    bottom: 0;
+    height: 280px;
+    top: 0;
+    left: 190px;
+    right: 15px;
+}
+.popover {
+	z-index:99;
+}
+.popover.bottom > .arrow:after {
+    content: " ";
+    top: 1px;
+    margin-left: -8px;
+    border-top-width: 0;
+    border-bottom-color: #ffffff;
+}
+.popover > .arrow, .popover > .arrow:after {
+    position: absolute;
+    display: block;
+    width: 0;
+    height: 0;
+    border-color: transparent;
+    border-style: solid;
+}
+.popover > .arrow:after {
+    border-width: 8px;
+    content: "";
+}
+.PB10 {
+    padding-bottom: 10px;
+}
+.PT10 {
+    padding-top: 10px;
+}
+.tab-content > .active {
+    display: block;
+}
+.fade {
+    opacity: 0;
+    -webkit-transition: opacity 0.15s linear;
+    -o-transition: opacity 0.15s linear;
+    transition: opacity 0.15s linear;
+}
+.tabvertical .nav > li > a {
+    padding: 5px 10px;
+    margin-right: 0;
+    color: #30363e;
+    border-left: 2px solid transparent;
+    border-radius: 0;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+.popover .dvPopsearch {
+    position: relative;
+    background-color: #fff;
+    padding: 0 12px;
+}
+.tabvertical .rhttablst {
+    float: left;
+    width: 100%;
+    overflow-y: auto;
+    max-height: 235px;
+}
+.tabvertical .rhttablst li.head {
+    padding: 4px 12px 4px 0px;
+    color: #666;
+    margin-top: 8px;
+}
+.tabvertical .rhttablst li span {
+    max-width: 99%;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    word-wrap: break-word;
+    display: block;
+	font-size:14px;
+	font-weight:600;
+}
+.tabvertical .nav-pills > li.active > a, .tabpills .nav-pills > li.active > a:hover, .tabpills .nav-pills > li.active > a:focus {
+    border-left: 2px solid rgba(255,152,0,1) !important;
+    background-color: rgba(75,137,220,0.07) !important;
+    color: #333 !important;
+    border-right: none !important;
+    border-bottom: none !important;
+}

@@ -1,0 +1,82 @@
+[class^="icon-"], [class*=" icon-"] {
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-image: url(../img/icon.svg);
+}
+.icon-genders {
+  width: 32px;
+  height: 32px;
+  background-position: 0 0;
+}
+.icon-briefcase {
+  width: 32px;
+  height: 32px;
+  background-position: -48px 0;
+}
+.icon-wedding-rings {
+  width: 32px;
+  height: 32px;
+  background-position: -96px 0;
+}
+.icon-sunbed {
+  width: 32px;
+  height: 32px;
+  background-position: -144px 0;
+}
+.icon-baby {
+  width: 32px;
+  height: 32px;
+  background-position: -192px 0;
+}
+.icon-ambulance {
+  width: 32px;
+  height: 32px;
+  background-position: -240px 0;
+}
+.icon-hospital {
+  width: 32px;
+  height: 32px;
+  background-position: -288px 0;
+}
+.icon-nurse {
+  width: 32px;
+  height: 32px;
+  background-position: -336px 0;
+}
+.icon-get-money {
+  width: 32px;
+  height: 32px;
+  background-position: -384px 0;
+}
+.icon-stethoscope {
+  width: 32px;
+  height: 32px;
+  background-position: -432px 0;
+}
+.icon-plane {
+  width: 32px;
+  height: 32px;
+  background-position: -480px 0;
+}
+.icon-whellchair {
+  width: 32px;
+  height: 32px;
+  background-position: -528px 0;
+}
+.icon-bed {
+  width: 45px;
+  height: 32px;
+  background-position: -556px 0;
+}
+.icon-cart {
+  width: 35px;
+  height: 35px;
+  background-position: -615px 0;
+}
+.icon-kacamata {
+  width: 60px;
+  height: 35px;
+  background-position: -650px 0;
+}
+
+

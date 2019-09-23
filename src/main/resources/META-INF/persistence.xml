@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="2.1" xmlns="http://xmlns.jcp.org/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd">
+  <persistence-unit name="com.gov_com.gov.app.web_war_1.0-SNAPSHOTPU" transaction-type="RESOURCE_LOCAL">
+    <provider>org.eclipse.persistence.jpa.PersistenceProvider</provider>
+    <class>com.gov.app.web.model.AppMstRole</class>
+    <class>com.gov.app.web.model.AppMstUser</class>
+    <class>com.gov.app.web.model.AppMstUserRole</class>
+    <class>com.gov.app.web.model.AppMstVillage</class>
+    <class>com.gov.app.web.model.AppMstProvince</class>
+    <class>com.gov.app.web.model.AppMstDistrict</class>
+    <class>com.gov.app.web.model.AppMstCity</class>
+    <class>com.gov.app.web.model.GovTrxProgrammDetail</class>
+    <class>com.gov.app.web.model.GovTrxProgrammHeader</class>
+    <class>com.gov.app.web.model.GovTrxRealization</class>
+    <class>com.gov.app.web.model.AppTrxSession</class>
+    <class>com.gov.app.web.model.AppMstProposer</class>
+    <exclude-unlisted-classes>false</exclude-unlisted-classes>
+    <properties>
+      <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/db_gov?zeroDateTimeBehavior=convertToNull"/>
+      <property name="javax.persistence.jdbc.user" value="root"/>
+      <property name="javax.persistence.jdbc.driver" value="com.mysql.jdbc.Driver"/>
+      <property name="javax.persistence.jdbc.password" value=""/>
+    </properties>
+  </persistence-unit>
+</persistence>

@@ -1,0 +1,287 @@
+/*Icon Claim*/
+
+@font-face {
+  font-family: 'font-claim';
+  src:  url('font-claim.eot?x94d0e');
+  src:  url('font-claim.eot?x94d0e#iefix') format('embedded-opentype'),
+    url('font-claim.ttf?x94d0e') format('truetype'),
+    url('font-claim.woff?x94d0e') format('woff'),
+    url('font-claim.svg?x94d0e#font-claim') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="claim-"], [class*=" claim-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'font-claim' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.claim-coin-stack:before {
+  content: "\e900";
+}
+.claim-coin-stack-sisa:before {
+  content: "\e901";
+}
+.claim-wallet-filled-money-tool:before {
+  content: "\e902";
+}
+/*End Claim*/
+
+/*Icon module large*/ 
+@font-face {
+  font-family: 'icomoon';
+  src:  url('icomoon.eot?tseddk');
+  src:  url('icomoon.eot?tseddk#iefix') format('embedded-opentype'),
+    url('icomoon.ttf?tseddk') format('truetype'),
+    url('icomoon.woff?tseddk') format('woff'),
+    url('icomoon.svg?tseddk#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="font-"], [class*=" font-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.font-Application-Management:before {
+  content: "\e900";
+}
+.font-claim:before {
+  content: "\e901";
+}
+.font-CnB:before {
+  content: "\e902";
+}
+.font-document:before {
+  content: "\e903";
+}
+.font-event:before {
+  content: "\e904";
+}
+.font-file:before {
+  content: "\e905";
+}
+.font-Home:before {
+  content: "\e906";
+}
+.font-job:before {
+  content: "\e907";
+}
+.font-Module-Management:before {
+  content: "\e908";
+}
+.font-news:before {
+  content: "\e909";
+}
+.font-Notification:before {
+  content: "\e90a";
+}
+.font-OM:before {
+  content: "\e90b";
+}
+.font-people:before {
+  content: "\e90c";
+}
+.font-Self-Sevice:before {
+  content: "\e90d";
+}
+.font-task:before {
+  content: "\e90e";
+}
+.font-Configuring1:before {
+  content: "\e90f";
+}
+.font-Monitoring:before {
+  content: "\e910";
+}
+.font-Processing:before {
+  content: "\e911";
+}
+.font-Reporting:before {
+  content: "\e912";
+}
+.font-Tracking1:before {
+  content: "\e913";
+}
+.font-Tracking2:before {
+  content: "\e914";
+}
+.font-Tracking3:before {
+  content: "\e915";
+}
+/*end icon large*/
+
+/*icon home*/
+@font-face {
+  font-family: 'icohome';
+  src:  url('icohome.eot?8fmyzh');
+  src:  url('icohome.eot?8fmyzh#iefix') format('embedded-opentype'),
+    url('icohome.ttf?8fmyzh') format('truetype'),
+    url('icohome.woff?8fmyzh') format('woff'),
+    url('icohome.svg?8fmyzh#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icohome-"], [class*=" icohome-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icohome' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icohome-Competency:before {
+  content: "\e900";
+}
+.icohome-Execution:before {
+  content: "\e901";
+}
+.icohome-Expert-Locator:before {
+  content: "\e902";
+}
+.icohome-Internal-Recruitment:before {
+  content: "\e903";
+}
+.icohome-KPI:before {
+  content: "\e904";
+}
+.icohome-learning:before {
+  content: "\e905";
+}
+.icohome-Leave:before {
+  content: "\e906";
+}
+.icohome-Loan:before {
+  content: "\e907";
+}
+.icohome-NPS:before {
+  content: "\e908";
+}
+.icohome-Payroll:before {
+  content: "\e909";
+}
+.icohome-Performance:before {
+  content: "\e90a";
+}
+.icohome-Survey:before {
+  content: "\e90b";
+}
+.icohome-Time-Attendance:before {
+  content: "\e90c";
+}
+.icohome-Training:before {
+  content: "\e90d";
+}
+.icohome-Warning:before {
+  content: "\e90e";
+}
+.icohome-Assesment:before {
+  content: "\e90f";
+}
+.icohome-Business-Trip:before {
+  content: "\e910";
+}
+.icohome-Careers:before {
+  content: "\e911";
+}
+.icohome-Claim:before {
+  content: "\e912";
+}
+.icohome-Comben:before {
+  content: "\e913";
+}
+/*end icon home*/
+
+/*Icon-people*/
+@font-face {
+  font-family: 'people';
+  src:  url('people.eot?mfxdbq');
+  src:  url('people.eot?mfxdbq#iefix') format('embedded-opentype'),
+    url('people.ttf?mfxdbq') format('truetype'),
+    url('people.woff?mfxdbq') format('woff'),
+    url('people.svg?mfxdbq#people') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="people-"], [class*=" people-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'people' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.people-Award:before {
+  content: "\e900";
+}
+.people-Child:before {
+  content: "\e901";
+}
+.people-Education:before {
+  content: "\e902";
+}
+.people-Jenjab:before {
+  content: "\e903";
+}
+.people-Kompetensi:before {
+  content: "\e904";
+}
+.people-Marital-Status:before {
+  content: "\e905";
+}
+.people-Performance:before {
+  content: "\e906";
+}
+.people-Sanction:before {
+  content: "\e907";
+}
+.people-status-kepegawaian:before {
+  content: "\e908";
+}
+.people-suitcase:before {
+  content: "\e909";
+}
+.people-Tanggal-Mulai-Masuk:before {
+  content: "\e90a";
+}
+.people-tempat-awal-rekrut:before {
+  content: "\e90b";
+}
+/*end-icon-people*/

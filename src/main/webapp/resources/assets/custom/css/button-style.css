@@ -1,0 +1,4 @@
+.btn-orange{color:#fff;background-color:#4fc3f7 ;border-color:#CCC}
+.btn-orange.focus,.btn-orange:focus{color:#fff;background-color:#4fc3f7 ;border-color:#CCC}
+.btn-orange.active,.btn-orange:active,.btn-orange:hover,.open>.dropdown-toggle.btn-orange{color:#fff;background-color:#4fc3f7 ;border-color:#CCC}
+.btn-orange:hover{background-color:#0288d1 ;border-color:#CCC}
